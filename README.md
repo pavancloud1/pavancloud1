@@ -20,3 +20,5 @@ Welcome to my GitHub profile. These public repositories share practical labs, re
 | :--- | :--- | :--- |
 | [aks-starter-kit](https://github.com/your-username/repo-name) | Sample manifests and deployment workflow for Azure Kubernetes Service | |
 | [powershell-admin-scripts](https://github.com/your-username/repo-name) | Automation scripts for Active Directory and Windows Server tasks | |
+
+<img src="./pavan.jpg" alt="Profile Picture" width="160" align="right" style="border-radius: 50%;" />
